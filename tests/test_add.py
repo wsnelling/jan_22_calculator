@@ -8,3 +8,5 @@ def test_two_plus_two():
     if given 2 and 2 as parameters 4 sb returned
     """
     assert add(2, 2) == 4
+
+    assert add(3, 3) == 6
